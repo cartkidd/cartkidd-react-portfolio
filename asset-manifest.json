@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/cartkidd-react-porfolio/static/css/main.2de2b3de.css",
+    "main.js": "/cartkidd-react-porfolio/static/js/main.249790d5.js",
+    "static/js/787.9bb68daf.chunk.js": "/cartkidd-react-porfolio/static/js/787.9bb68daf.chunk.js",
+    "static/media/Me.png": "/cartkidd-react-porfolio/static/media/Me.166196f357d1cfe51a94.png",
+    "static/media/Cartkidd-Resume.pages": "/cartkidd-react-porfolio/static/media/Cartkidd-Resume.96e692e187130dce2331.pages",
+    "static/media/1.png": "/cartkidd-react-porfolio/static/media/1.359243b0107d4aa272f0.png",
+    "static/media/mock-up.png": "/cartkidd-react-porfolio/static/media/mock-up.25cabaad3f674f97c0bc.png",
+    "static/media/ig.png": "/cartkidd-react-porfolio/static/media/ig.577abb09f49ce1b16b7a.png",
+    "static/media/0.png": "/cartkidd-react-porfolio/static/media/0.4a1478d6c1227d0f37a4.png",
+    "static/media/github.png": "/cartkidd-react-porfolio/static/media/github.a8bfcf3f9fbb89cd7747.png",
+    "static/media/2.png": "/cartkidd-react-porfolio/static/media/2.0c0a13cbd49f0e401d2f.png",
+    "static/media/linkedin.png": "/cartkidd-react-porfolio/static/media/linkedin.6dc47ac38a8ea3384fca.png",
+    "index.html": "/cartkidd-react-porfolio/index.html",
+    "main.2de2b3de.css.map": "/cartkidd-react-porfolio/static/css/main.2de2b3de.css.map",
+    "main.249790d5.js.map": "/cartkidd-react-porfolio/static/js/main.249790d5.js.map",
+    "787.9bb68daf.chunk.js.map": "/cartkidd-react-porfolio/static/js/787.9bb68daf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2de2b3de.css",
+    "static/js/main.249790d5.js"
+  ]
+}
