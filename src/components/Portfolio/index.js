@@ -3,22 +3,7 @@ import Project from '../Project';
 
 function Portfolio() {
 	const projects = [
-		{
-			name: 'Personal_Training',
-
-			description:
-        		'This personal training web app allows users to register for personal trainers depending on their Bmi.',
-
-			image: '0.png',
-			technologies: [
-				'HTML',
-				'CSS',
-				'JavaScript',
-				'Bulma',
-			],
-			github: "https://https://github.com/kingo86/Personal_Training",
-			deployed: "https://kingo86.github.io/Personal_Training/",
-		},
+		
 		{
 			name: 'Vacation Packages',
 			description:
