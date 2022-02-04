@@ -52,6 +52,16 @@ function Portfolio() {
 			],
 			github: "https://github.com/cartkidd/tech-blog",
 		},
+
+		{
+			name: 'Shoehub-Selection',
+			description: 
+			'Shoehub is a place where you can go rate and upload pictures',
+			image: 'Shoehub.png',
+
+			github: "https://github.com/cartkidd/shoehub-selection"
+	
+		},
 	
 	];
 
