@@ -3,7 +3,31 @@ import Project from '../Project';
 
 function Portfolio() {
 	const projects = [
-		
+		{
+			name: 'Shoehub-Selection',
+			description: 
+			'Shoehub is a place where you can go rate and upload pictures',
+			image: 'Shoehub.png',
+
+			github: "https://github.com/cartkidd/shoehub-selection"
+	
+		},
+		{
+			name: 'Personal_Training',
+
+			description:
+        		'This personal training web app allows users to register for personal trainers depending on their Bmi.',
+
+			image: '0.png',
+			technologies: [
+				'HTML',
+				'CSS',
+				'JavaScript',
+				'Bulma',
+			],
+			github: "https://https://github.com/kingo86/Personal_Training",
+			deployed: "https://kingo86.github.io/Personal_Training/",
+		},
 		{
 			name: 'Vacation Packages',
 			description:
@@ -36,16 +60,6 @@ function Portfolio() {
 				'Handlebars'
 			],
 			github: "https://github.com/cartkidd/tech-blog",
-		},
-
-		{
-			name: 'Shoehub-Selection',
-			description: 
-			'Shoehub is a place where you can go rate and upload pictures',
-			image: 'Shoehub.png',
-
-			github: "https://github.com/cartkidd/shoehub-selection"
-	
 		},
 	
 	];
