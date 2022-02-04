@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cartkidd-react-porfolio/static/css/main.4069c03e.css",
-    "main.js": "/cartkidd-react-porfolio/static/js/main.5149d57c.js",
+    "main.js": "/cartkidd-react-porfolio/static/js/main.106ffb35.js",
     "static/js/787.9bb68daf.chunk.js": "/cartkidd-react-porfolio/static/js/787.9bb68daf.chunk.js",
     "static/media/Me.png": "/cartkidd-react-porfolio/static/media/Me.166196f357d1cfe51a94.png",
     "static/media/Cartkidd-Resume.pages": "/cartkidd-react-porfolio/static/media/Cartkidd-Resume.96e692e187130dce2331.pages",
@@ -15,11 +15,11 @@
     "static/media/linkedin.png": "/cartkidd-react-porfolio/static/media/linkedin.6dc47ac38a8ea3384fca.png",
     "index.html": "/cartkidd-react-porfolio/index.html",
     "main.4069c03e.css.map": "/cartkidd-react-porfolio/static/css/main.4069c03e.css.map",
-    "main.5149d57c.js.map": "/cartkidd-react-porfolio/static/js/main.5149d57c.js.map",
+    "main.106ffb35.js.map": "/cartkidd-react-porfolio/static/js/main.106ffb35.js.map",
     "787.9bb68daf.chunk.js.map": "/cartkidd-react-porfolio/static/js/787.9bb68daf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4069c03e.css",
-    "static/js/main.5149d57c.js"
+    "static/js/main.106ffb35.js"
   ]
 }
